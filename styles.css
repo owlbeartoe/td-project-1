@@ -52,7 +52,7 @@ a:hover {
   transition: all .5s;
 }
 .nav a:hover {
-  color: white
+  color: red;
 }
 
 header {
@@ -103,7 +103,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: #ff0310c5;
 }
 
 ul.skills {
@@ -170,6 +170,8 @@ a.social:hover {
 .clearfix {
   clear: both;
 }
+
+
 
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
